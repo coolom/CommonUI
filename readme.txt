@@ -1,4 +1,4 @@
-read this file before using it.
+read this file before.
 
 added new comments
 comment from commonui
